@@ -474,7 +474,7 @@ color: inherit;
 margin-bottom: 3.2rem;
 }
 .cta-img-box{
-background-image:linear-gradient(to right bottom, rgba(235, 150, 76, 0.3),rgba(230, 125, 34, 0.3)) ,url('/img/eating.jpg');
+background-image:linear-gradient(to right bottom, rgba(235, 150, 76, 0.3),rgba(230, 125, 34, 0.3)) ,url('./img/eating.jpg');
 background-size: cover;
 background-position: center;
 }
