@@ -5,7 +5,7 @@ I have created it through the course by understanding the code and coding along 
 
 It is a fully responsive website and has many sections (hero section,feature section,CTA section...)
 ***
-[Click here to view live site](https://jayk-gupta.github.io/omnifood/)
+[Click here to view live site](https://jayk-gupta.github.io/Omnifood/)
 ***
 ## Build with 
 - HTML 
